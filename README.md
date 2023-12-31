@@ -22,7 +22,7 @@ Data Visualization - PowerBI.
 6. How does the gender distribution vary across departments and job titles?
 7. What is the distribution of job title in the company?
 8. which department has the highest turnover rate?
-9. what is the distribution of employees across locatins by state?
+9. what is the distribution of employees across locations by state?
 10. how has the company's count changed over time based on hire and term dates? 
 11. What is the tenure distribution for each department?
 
@@ -36,7 +36,7 @@ Data Visualization - PowerBI.
 - The average length of employment for terminated employees is around is 7 years.
 - The gender distribution across departments is fairly balanced but there are generally more male than female employees.
 - The Marketing department has the highest turover rate followed by Training. The least turn over rate are in the Research and development, Support and Legal departments.
-- A large number of employees come from from the state of Ohio.
+- A large number of employees come from the state of Ohio.
 - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
